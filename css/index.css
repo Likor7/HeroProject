@@ -199,15 +199,6 @@ footer{
 }
 
 @media (max-width: 70rem) {
-    .interface{
-        margin-inline: 5em;
-    }
-    .main-image{
-        max-width: 45%;
-    }
-}
-
-@media (max-width: 55rem) {
     .navigation{
         display: none;
     }
